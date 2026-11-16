@@ -1,0 +1,16 @@
+1- Versionamento
+
+* tags: 
+feat 
+chore
+style
+fix
+
+2- HTML
+* Tags Semanticas:
+div,h1,h2,p
+
+3- CSS
+flexbox
+
+4- JavaScript
